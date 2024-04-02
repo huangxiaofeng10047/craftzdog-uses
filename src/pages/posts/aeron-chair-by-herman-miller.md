@@ -3,8 +3,7 @@ description: Work Chair
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Aeron Chair by Herman Miller
-createdAt: 1663138523826
-updatedAt: 1683767730186
+pubDate: 'Jul 08 2022'
 tags:
   - Desk
 heroImage: /posts/aeron-chair-by-herman-miller_thumbnail.jpg
