@@ -1,27 +1,34 @@
 ---
-description: Laptop computer
+description: Laptop
 slug: macbook-pro
 public: true
 layout: ../../layouts/BlogPost.astro
-title: MacBook Pro (M1 Max)
-createdAt: 1663205542000
-updatedAt: 1663138785310
-tags:
-  - Computing
+title: MacBook proM3max
+createdAt: 1713889282301
+updatedAt: 1713925514225
+tags: []
 heroImage: /posts/macbook-pro_thumbnail.jpg
 ---
+this an artle
+
+m3max
+
+48g ram
+
+1t ssd
 
 
-MacBook Pro (14-inch, 2021) is my main computer for app devs, designing, video editing, and everything else.
-It's so powerful and really a good foundation to create digital stuff. It will stay with you regardless of how far you wanna go, how crazy you want to experiment whatever. And bonus: It's portable!
+this Is artile。
 
-![macbook-pro-m1-max.jpg](/posts/macbook-pro_macbook-pro-m1-max-jpg.jpg)
+artichlke。
 
-So, I can enjoy coding wherever like at cafes, hotels, and even in nature :) Pretty awesome.
-It would have not been possible to film coding videos in nature like this, thanks to its high power efficiency.
+test。
 
-![macbook-pro-m1-max_3.jpg](/posts/macbook-pro_macbook-pro-m1-max-3-jpg.jpg)
-[**WATCH**: How I built a software agency website with Next.js + Tailwind CSS (in nature)](https://www.youtube.com/watch?v=GznmPACXBlY)
+test。
 
-I chose 14-inch because 16-inch is too big for me. I connect it with [Pro Display XDR](/posts/pro-display-xdr)
-at home.
+test。
+
+
+犯我强汉者，非远必诛。
+
+![clipboard.png](/posts/macbook-pro_clipboard-png.png)
